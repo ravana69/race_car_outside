@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:23:34	7807/7807	---M-Z	200	added ('OK')	text/html	date:Fri,%2021%20Apr%202023%2007:53:34%20GMT	http://digitonaut.com/art/race_car_outside/	C:/My%20Web%20Sites/race_car_outside/digitonaut.com/art/race_car_outside/index.html	(from )
+13:23:34	575/575	---M--	404	error ('Not%20Found')	text/html	etag:%2223f-4ae8f0ab47e80%22	http://digitonaut.com/robots.txt		(from )
+13:23:34	131/131	---M--	200	added ('OK')	text/css	etag:%2283-5db9a4f795649%22	http://digitonaut.com/art/race_car_outside/main.css	C:/My%20Web%20Sites/race_car_outside/digitonaut.com/art/race_car_outside/main.css	(from http://digitonaut.com/art/race_car_outside/)
+13:23:38	1769/1769	---M-Z	200	added ('OK')	application/javascript	etag:W/%226e9-5db9a4f7afc59%22	http://digitonaut.com/art/race_car_outside/main.js	C:/My%20Web%20Sites/race_car_outside/digitonaut.com/art/race_car_outside/main.js	(from http://digitonaut.com/art/race_car_outside/)
+13:23:41	477176/477176	---M-Z	200	added ('OK')	application/javascript	etag:W/%22747f8-5db9a4f82bca0%22	http://digitonaut.com/art/race_car_outside/three.min.js	C:/My%20Web%20Sites/race_car_outside/digitonaut.com/art/race_car_outside/three.min.js	(from http://digitonaut.com/art/race_car_outside/)
